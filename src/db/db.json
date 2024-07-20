@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "f2d9e389-aefe-4d8c-865a-34968ae80aaf",
+    "name": "Dr. Kelvin Funk",
+    "phone": "971.783.9119 x05916",
+    "email": "Ivory.Howell76@yahoo.com",
+    "job": "Corporate Implementation Planner"
+  },
+  {
+    "id": "e57c4322-2241-4365-afbe-d5c73649b4aa",
+    "name": "Elvira Wisoky",
+    "phone": "(369) 644-8373 x6426",
+    "email": "Gordon_Koss@yahoo.com",
+    "job": "Forward Factors Producer"
+  },
+  {
+    "id": "71dd5274-bfad-4e03-8a97-1e10eb761795",
+    "name": "Loren Schmitt",
+    "phone": "(979) 690-7766 x77202",
+    "email": "Kyla.Huels@gmail.com",
+    "job": "Internal Directives Facilitator"
+  },
+  {
+    "id": "a3c6ffe3-09d4-431f-8e4b-09af4e385ac1",
+    "name": "Loretta Terry",
+    "phone": "(672) 586-1351 x638",
+    "email": "Betty_Zieme@gmail.com",
+    "job": "Legacy Mobility Technician"
+  },
+  {
+    "id": "bbc95ca5-e09b-4034-814f-1fa7f0b3569d",
+    "name": "Corey Kutch",
+    "phone": "628-312-1784",
+    "email": "Clark3@hotmail.com",
+    "job": "Legacy Identity Associate"
+  }
+]
